@@ -1,0 +1,34 @@
+C:\Users\ahmethp\Desktop\qnewwwwwww\qnewwwwwww\obj\Debug\qnewwwwwww.csprojAssemblyReference.cache
+C:\Users\ahmethp\Desktop\qnewwwwwww\qnewwwwwww\obj\Debug\qnewwwwwww.Form1.resources
+C:\Users\ahmethp\Desktop\qnewwwwwww\qnewwwwwww\obj\Debug\qnewwwwwww.Properties.Resources.resources
+C:\Users\ahmethp\Desktop\qnewwwwwww\qnewwwwwww\obj\Debug\qnewwwwwww.csproj.GenerateResource.cache
+C:\Users\ahmethp\Desktop\qnewwwwwww\qnewwwwwww\obj\Debug\qnewwwwwww.csproj.CoreCompileInputs.cache
+C:\Users\ahmethp\Desktop\qnewwwwwww\qnewwwwwww\bin\Debug\qnewwwwwww.exe.config
+C:\Users\ahmethp\Desktop\qnewwwwwww\qnewwwwwww\bin\Debug\qnewwwwwww.exe
+C:\Users\ahmethp\Desktop\qnewwwwwww\qnewwwwwww\bin\Debug\qnewwwwwww.pdb
+C:\Users\ahmethp\Desktop\qnewwwwwww\qnewwwwwww\obj\Debug\qnewwwwwww.exe
+C:\Users\ahmethp\Desktop\qnewwwwwww\qnewwwwwww\obj\Debug\qnewwwwwww.pdb
+C:\Users\ahmethp\Desktop\qnewwwwwww\qnewwwwwww\obj\Debug\qnewwwwwww.rapor.resources
+C:\Users\ahmethp\Desktop\qnewwwwwww\qnewwwwwww\obj\Debug\qnewwwwwww.giris.resources
+C:\Users\ahmethp\Desktop\qnewwwwwww\qnewwwwwww\obj\Debug\qnewwwwwww.biblioteca.resources
+C:\Users\ahmethp\Desktop\qnewwwwwww - Kopya\qnewwwwwww\bin\Debug\qnewwwwwww.exe.config
+C:\Users\ahmethp\Desktop\qnewwwwwww - Kopya\qnewwwwwww\bin\Debug\qnewwwwwww.exe
+C:\Users\ahmethp\Desktop\qnewwwwwww - Kopya\qnewwwwwww\bin\Debug\qnewwwwwww.pdb
+C:\Users\ahmethp\Desktop\qnewwwwwww - Kopya\qnewwwwwww\obj\Debug\qnewwwwwww.csprojAssemblyReference.cache
+C:\Users\ahmethp\Desktop\qnewwwwwww - Kopya\qnewwwwwww\obj\Debug\qnewwwwwww.Form1.resources
+C:\Users\ahmethp\Desktop\qnewwwwwww - Kopya\qnewwwwwww\obj\Debug\qnewwwwwww.giris.resources
+C:\Users\ahmethp\Desktop\qnewwwwwww - Kopya\qnewwwwwww\obj\Debug\qnewwwwwww.biblioteca.resources
+C:\Users\ahmethp\Desktop\qnewwwwwww - Kopya\qnewwwwwww\obj\Debug\qnewwwwwww.Properties.Resources.resources
+C:\Users\ahmethp\Desktop\qnewwwwwww - Kopya\qnewwwwwww\obj\Debug\qnewwwwwww.csproj.GenerateResource.cache
+C:\Users\ahmethp\Desktop\qnewwwwwww - Kopya\qnewwwwwww\obj\Debug\qnewwwwwww.csproj.CoreCompileInputs.cache
+C:\Users\ahmethp\Desktop\qnewwwwwww - Kopya\qnewwwwwww\obj\Debug\qnewwwwwww.exe
+C:\Users\ahmethp\Desktop\qnewwwwwww - Kopya\qnewwwwwww\obj\Debug\qnewwwwwww.pdb
+C:\Users\ahmethp\Desktop\qnewwwwwww - Kopya\qnewwwwwww\bin\Debug\book.mdf
+C:\Users\ahmethp\Desktop\qnewwwwwww - Kopya\qnewwwwwww\bin\Debug\book_log.ldf
+C:\Users\ahmethp\Desktop\qnewwwwwww - Kopya\qnewwwwwww\bin\Debug\qnewwwwwww.exe.manifest
+C:\Users\ahmethp\Desktop\qnewwwwwww - Kopya\qnewwwwwww\bin\Debug\qnewwwwwww.application
+C:\Users\ahmethp\Desktop\qnewwwwwww - Kopya\qnewwwwwww\obj\Debug\qnewwwwwww.TrustInfo.xml
+C:\Users\ahmethp\Desktop\qnewwwwwww - Kopya\qnewwwwwww\obj\Debug\qnewwwwwww.exe.manifest
+C:\Users\ahmethp\Desktop\qnewwwwwww - Kopya\qnewwwwwww\obj\Debug\qnewwwwwww.application
+C:\Users\ahmethp\Desktop\qnewwwwwww - Kopya\qnewwwwwww\obj\Debug\qnewwwwwww.hizlierisimcs.resources
+C:\Users\ahmethp\Desktop\qnewwwwwww - Kopya\qnewwwwwww\obj\Debug\qnewwwwwww.arama.resources
